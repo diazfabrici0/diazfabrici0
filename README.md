@@ -31,6 +31,26 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+<br>
+
+#### Styles
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,css,bootstrap" />
+  </a>
+  <br>
+#### Databases & cloud hosting
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,vercel,netlify,github," />
+</a>
+<br>
+####Tools
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=npm,vscode,github,git" />
+  </a>
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
 <!--
 **diazfabrici0/diazfabrici0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
