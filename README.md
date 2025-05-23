@@ -12,6 +12,8 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 - I like videogames, the gym and playing the guitar!
 ### Technologies & tools
 
+<hr>
+
 #### Programming languages
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,php,python,ts,dart" />
