@@ -23,7 +23,8 @@ I'm eager to grow and work with effective, functional technologies that enhance 
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,laravel,flutter" />
   </a>
-  ![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  
+![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
