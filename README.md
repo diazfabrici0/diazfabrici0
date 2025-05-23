@@ -30,7 +30,6 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django%20REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
-
 <br>
 
 #### Styles
@@ -38,11 +37,13 @@ I'm eager to grow and work with effective, functional technologies that enhance 
     <img src="https://skillicons.dev/icons?i=tailwind,css,bootstrap" />
   </a>
   <br>
+  
 #### Databases & cloud hosting
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,vercel,netlify,github," />
 </a>
 <br>
+
 ####Tools
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=npm,vscode,github,git" />
