@@ -9,7 +9,7 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 - I've studied at college and on my own.
 - I'm highly motivated to keep growing in my career as a developer.
 - I'm passionate about the world of technology.
-- I like videogames, the gym and playing the guitar! (also anime)
+- I like video games, the gym and playing the guitar! (also anime)
 ### Technologies & tools
 
 <hr>
