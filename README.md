@@ -10,17 +10,16 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 - I'm highly motivated to keep growing in my career as a developer.
 - I'm passionate about the world of technology.
 - I like videogames, the gym and playing the guitar!
-
 ### Technologies & tools
 
-####Programming languages
+#### Programming languages
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,php,python,ts,dart" />
   </a>
 
 <img src="https://img.shields.io/badge/SQL-blue" width="50"/>
 
-####Frameworks & libraries
+#### Frameworks & libraries
  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,laravel,flutter" />
   </a>
