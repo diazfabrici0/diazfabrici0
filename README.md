@@ -11,6 +11,24 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 - I'm passionate about the world of technology.
 - I like videogames, the gym and playing the guitar!
 
+### Technologies & tools
+
+####Programming languages
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,php,python,ts,dart" />
+  </a>
+
+<img src="https://img.shields.io/badge/SQL-blue" width="50"/>
+
+####Frameworks & libraries
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,laravel,flutter" />
+  </a>
+  ![React Router DOM](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 <!--
 **diazfabrici0/diazfabrici0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
