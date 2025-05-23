@@ -1,6 +1,6 @@
 ### Welcome! 👋
 <p>
-I'm Fabricio Diaz, a Frontend developer with a strong passion for working and continuously improving in all areas of development.
+I'm Fabricio Diaz, a Fullstacl developer with a strong passion for working and continuously improving in all areas of development.
 I thrive in team environments and have a solid ability to learn quickly.
 I'm eager to grow and work with effective, functional technologies that enhance both user experience and interface design. 
 </p>
