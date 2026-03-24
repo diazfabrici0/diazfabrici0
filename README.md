@@ -40,7 +40,7 @@ I'm eager to grow and work with effective, functional technologies that enhance 
   
 #### Databases & cloud hosting
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,vercel,netlify,github," />
+    <img src="https://skillicons.dev/icons?i=mysql,vercel,netlify,github,supabase" />
 </a>
 <br>
 
