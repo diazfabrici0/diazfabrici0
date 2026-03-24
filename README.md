@@ -46,7 +46,7 @@ I'm eager to grow and work with effective, functional technologies that enhance 
 
 #### Tools
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=npm,vscode,github,git, gemini" />
+    <img src="https://skillicons.dev/icons?i=npm,vscode,github,git,gemini" />
   </a>
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
